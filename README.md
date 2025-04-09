@@ -23,7 +23,7 @@
 
 ### 🔹 Task B – Local Setup & Remote Linking (Account A)
 - Initialized a local Git repository.
-- Created a sample file (`main.py`) and committed it.
+- Created a sample file (`sample.txt`) and committed it.
 - Added GitHub remote and successfully pushed using `git push origin main`.
 
 ### 🔹 Task C – Cloning and Modifying (Account A)
