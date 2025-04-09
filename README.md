@@ -1,1 +1,1 @@
-# Linux-CA3
+This is a GitHub collaboration demo project.
